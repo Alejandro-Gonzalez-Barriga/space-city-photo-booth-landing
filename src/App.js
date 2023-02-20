@@ -1,6 +1,7 @@
 import logo from './photoBoothLogo.png';
 import './App.css';
 import { Container } from '@mui/material';
+import SpaceAppBar from './components/SpaceAppBar';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         searchbox
         appdrawer
          */}
+        <SpaceAppBar/>
          <h1>
           🔥 SpaceCityLandingContainer 🔥
         </h1>
