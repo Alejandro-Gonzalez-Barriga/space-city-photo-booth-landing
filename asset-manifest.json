@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/space-city-photo-booth-landing/static/css/main.073c9b0a.css",
-    "main.js": "/space-city-photo-booth-landing/static/js/main.c1eef7e0.js",
-    "static/js/787.957dfad2.chunk.js": "/space-city-photo-booth-landing/static/js/787.957dfad2.chunk.js",
-    "static/media/photoBoothLogo.png": "/space-city-photo-booth-landing/static/media/photoBoothLogo.90ac29954808e26e118b.png",
-    "index.html": "/space-city-photo-booth-landing/index.html",
-    "main.073c9b0a.css.map": "/space-city-photo-booth-landing/static/css/main.073c9b0a.css.map",
-    "main.c1eef7e0.js.map": "/space-city-photo-booth-landing/static/js/main.c1eef7e0.js.map",
-    "787.957dfad2.chunk.js.map": "/space-city-photo-booth-landing/static/js/787.957dfad2.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.b1cb2dae.js",
+    "static/js/787.957dfad2.chunk.js": "/static/js/787.957dfad2.chunk.js",
+    "static/media/photoBoothLogo.png": "/static/media/photoBoothLogo.90ac29954808e26e118b.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.b1cb2dae.js.map": "/static/js/main.b1cb2dae.js.map",
+    "787.957dfad2.chunk.js.map": "/static/js/787.957dfad2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c1eef7e0.js"
+    "static/js/main.b1cb2dae.js"
   ]
 }
