@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Photo Booth",
+  "name": "Space City Photo Booth",
+  "description": "Photo booth rentals in the houston area",
   "icons": [
     {
       "src": "photoBoothLogo.png",
@@ -18,7 +19,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"

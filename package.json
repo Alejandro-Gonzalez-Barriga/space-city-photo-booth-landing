@@ -2,6 +2,7 @@
   "name": "space-city-photo-booth-landing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.alexgportafolio.dev/space-city-photo-booth-landing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
