@@ -2,7 +2,7 @@
   "name": "space-city-photo-booth-landing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alejandro-Gonzalez-Barriga.github.io",
+  "homepage": "https://Alejandro-Gonzalez-Barriga.github.io/space-city-photo-booth-landing",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
