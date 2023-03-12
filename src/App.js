@@ -1,4 +1,4 @@
-import logo from './photoBoothLogo.png';
+import logo from './spaceCityPhotoBoothLogoTransparent.png';
 import './App.css';
 import { Container } from '@mui/material';
 import SpaceAppBar from './components/SpaceAppBar';
@@ -6,23 +6,13 @@ import SpaceAppBar from './components/SpaceAppBar';
 function App() {
   return (
     <div className="App">
+     <SpaceAppBar/>
       <header className="App-header">
      
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          🔥SpaceCityLanding🔥
         </p>
-        <p>
-          🔥 SpaceCityLanding 🔥
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
        <Container maxWidth="xl" sx={{background: '#fff'}}>
         {/*
@@ -35,10 +25,10 @@ function App() {
         searchbox
         appdrawer
          */}
-        <SpaceAppBar/>
          <h1>
-          🔥 SpaceCityLandingContainer 🔥
+          🔥Container🔥
         </h1>
+        <img src={logo} className="App-logo" alt="logo" />
        </Container>
     </div>
   );
