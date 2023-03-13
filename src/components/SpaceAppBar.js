@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import logo from '../spaceCityPhotoBoothLogoIcon.svg';
 
-const pages = ['Products', 'Pricing', 'Blog'];
+const pages = ['About Us', 'Gallery', 'Packages', 'Faq\'s', 'Contact'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function SpaceAppBar() {
