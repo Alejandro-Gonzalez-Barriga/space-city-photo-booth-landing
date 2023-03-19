@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import logo from '../spaceCityPhotoBoothLogoIcon.svg';
 
-const pages = ['About Us', 'Gallery', 'Packages', 'Faq\'s', 'Contact'];
+const pages = ['About Us', 'Gallery', 'Packages', 'Faq\'s', 'Contact', 'Languages>'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function SpaceAppBar() {
@@ -37,7 +37,7 @@ function SpaceAppBar() {
   };
 
   return (
-    <AppBar position="sticky" color="transparent" enableColorOnDark={true} >
+    <AppBar position="sticky" color="transparent">
       <Container maxWidth="xl">
    
         <Toolbar disableGutters>
