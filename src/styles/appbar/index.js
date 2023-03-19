@@ -17,7 +17,7 @@ export const AppbarContainer = styled(Box)(() => ({
 export const AppbarHeader = styled(Typography)(() => ({
   padding: "4px",
   flexGrow: 1,
-  fontSize: "4em",
+  fontSize: "2em",
   fontFamily: 'Glacial Indifference',
   color: Colors.secondary,
   "&:hover": {
@@ -43,7 +43,7 @@ export const ActionIconsContainerDesktop = styled(Box)(() => ({
 
 export const MyList = styled(List)(({ type }) => ({
     display: type === "row" ? "flex" : "block",
-    flexGrow: 3,
+    flexGrow: 0.5,
   justifyContent: "center",
   alignItems: "center",
 }));
