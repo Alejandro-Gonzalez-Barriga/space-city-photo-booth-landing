@@ -1,7 +1,6 @@
 import logo from './spaceCityPhotoBoothLogoTransparent.png';
 import './App.css';
 import { ThemeProvider, Container, Button } from '@mui/material';
-import SpaceAppBar from './components/SpaceAppBar';
 import PhotoBoothAppbar from './components/appbar';
 import theme from './styles/theme';
 
@@ -16,7 +15,6 @@ function App() {
       }}
       >
         <PhotoBoothAppbar/>
-        <SpaceAppBar/>
         <img src={logo} className="App-logo" alt="logo" />
         <Button variant="contained" color='primary'>Flash</Button>
         {/*  <div className="App">
