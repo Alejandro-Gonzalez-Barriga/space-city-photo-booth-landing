@@ -1,6 +1,7 @@
 import { AppbarContainer, AppbarHeader, MyList } from "../../styles/appbar";
-import logo from '../../spaceCityPhotoBoothLogoIcon.svg';
 import { ListItemText } from "@mui/material";
+import logo from '../../spaceCityPhotoBoothLogoIcon.svg';
+
 
 
 export default function PhotoBoothAppbarDesktop({ matches}) {
