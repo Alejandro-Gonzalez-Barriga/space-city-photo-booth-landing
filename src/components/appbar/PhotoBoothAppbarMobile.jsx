@@ -1,5 +1,13 @@
+import { IconButton } from "@mui/material";
+import { Menu as MenuIcon } from "@material-ui/icons";
+import { AppbarContainer } from "../../styles/appbar";
+
 export default function PhotoBoothAppbarMobile({ matches}) {
     return (
-        <h1>Mobile</h1>
+       <AppbarContainer>
+            <IconButton>
+                <MenuIcon/>
+            </IconButton>
+       </AppbarContainer>
     );
 }
