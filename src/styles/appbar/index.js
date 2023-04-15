@@ -10,8 +10,10 @@ export const AppbarContainer = styled(Box)(() => ({
     display: 'flex',
     marginTop: 4,
     justifyContent: 'center',
-  alignItems: 'center',
-    padding: '2px 8px'
+    alignItems: 'center',
+    padding: '2px 8px',
+    position: 'sticky',
+    top: 0,
 }));
 
 export const AppbarHeader = styled(Typography)(() => ({
