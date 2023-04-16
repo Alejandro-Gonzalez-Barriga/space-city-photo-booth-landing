@@ -23,9 +23,8 @@ export default function PhotoBoothAppbarDesktop({ matches}) {
 
     return (
        <AppbarContainer sx={{background: hasScrolled ? "rgba(0,0,0,0.6)" : "transparent"}}> 
-       {console.log(hasScrolled)}
         <img src={logo} className="App-logo2" alt="logo" />
-        <AppbarHeader sx={{color: hasScrolled ? Colors.white : Colors.secondary}}>Space City Photo Booth {hasScrolled.toString()}</AppbarHeader>
+        <AppbarHeader sx={{color: hasScrolled ? Colors.white : Colors.secondary}}>Space City Photo Booth</AppbarHeader>
         <MyList type="row" sx={{color: hasScrolled ? Colors.white : Colors.secondary}}>
             <ListItemText primary="About Us"/>
             <ListItemText primary="Gallery"/>
