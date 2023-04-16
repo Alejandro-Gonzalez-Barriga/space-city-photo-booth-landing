@@ -9,14 +9,16 @@ import theme from './styles/theme';
 function App() {
   return (
     <ThemeProvider theme={theme}>
+      <PhotoBoothAppbar/>
+      <PhotoBoothBanner/>
       <Container
       maxWidth='xl'
       sx={{
+        m: 0,
         background: '#fff'
       }}
       >
-        <PhotoBoothAppbar/>
-        <PhotoBoothBanner/>
+        
         <img src={logo} className="App-logo" alt="logo" />
         <Button variant="contained" color='primary'>Flash</Button>
         {/*  <div className="App">
