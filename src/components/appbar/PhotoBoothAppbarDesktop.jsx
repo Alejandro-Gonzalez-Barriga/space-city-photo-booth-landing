@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import { AppbarContainer, AppbarHeader, MyList } from "../../styles/appbar";
 import { ListItemText } from "@mui/material";
 import { Colors } from "../../styles/theme";
@@ -6,21 +5,7 @@ import logo from '../../spaceCityPhotoBoothLogoIcon.svg';
 
 
 
-export default function PhotoBoothAppbarDesktop({ matches}) {
-    const [hasScrolled, setHasScrolled] =  useState(false); 
-      
-    useEffect(() => {
-    function handleScroll() {
-      if (window.scrollY > 0) {
-        setHasScrolled(true);
-      } else {
-        setHasScrolled(false);
-      }
-    }
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-
+export default function PhotoBoothAppbarDesktop({ matches, hasScrolled}) {   
     return (
        <AppbarContainer sx={{background: hasScrolled ? "rgba(0,0,0,0.6)" : "transparent"}}> 
         <img src={logo} className="App-logo2" alt="logo" />
