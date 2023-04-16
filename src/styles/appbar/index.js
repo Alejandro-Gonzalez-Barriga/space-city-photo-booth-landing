@@ -11,7 +11,7 @@ export const AppbarContainer = styled(Box)(() => ({
     display: 'flex',
     justifyContent: 'center',
   alignItems: 'center',
-    padding: '2px 8px',
+    padding: '2px 36px',
     position: 'sticky',
     top: 0,
     zIndex: 999,
