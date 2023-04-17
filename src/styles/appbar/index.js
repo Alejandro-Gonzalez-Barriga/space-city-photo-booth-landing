@@ -10,7 +10,7 @@ require('typeface-glacial-indifference')
 export const AppbarContainer = styled(Box)(() => ({    
     display: 'flex',
     justifyContent: 'center',
-  alignItems: 'center',
+    alignItems: 'center',
     padding: '2px 36px',
     position: 'sticky',
     top: 0,
