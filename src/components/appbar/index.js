@@ -17,7 +17,6 @@ export default function PhotoBoothAppbar() {
         setHasScrolled(false);
       }
     }
-    console.log(hasScrolled.toString());
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   },);
