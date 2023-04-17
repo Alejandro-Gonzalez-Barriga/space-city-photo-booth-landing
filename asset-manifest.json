@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/space-city-photo-booth-landing/static/css/main.0b7dfc44.css",
-    "main.js": "/space-city-photo-booth-landing/static/js/main.568a568e.js",
+    "main.js": "/space-city-photo-booth-landing/static/js/main.12e91112.js",
     "static/js/787.957dfad2.chunk.js": "/space-city-photo-booth-landing/static/js/787.957dfad2.chunk.js",
     "static/media/banner.svg": "/space-city-photo-booth-landing/static/media/banner.b7cce9295703e9b90560.svg",
-    "static/media/spaceCityPhotoBoothLogoTransparent.png": "/space-city-photo-booth-landing/static/media/spaceCityPhotoBoothLogoTransparent.f6094e35b6fc6d32f3a4.png",
+    "static/media/spaceCityPhotoBoothLogoTransparent.svg": "/space-city-photo-booth-landing/static/media/spaceCityPhotoBoothLogoTransparent.183b0e8fa7123a7da248343cbcb8f419.svg",
     "static/media/glacial-indifference-400italic.woff": "/space-city-photo-booth-landing/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
     "static/media/glacial-indifference-700.woff": "/space-city-photo-booth-landing/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
     "static/media/glacial-indifference-400.woff": "/space-city-photo-booth-landing/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
@@ -14,11 +14,11 @@
     "static/media/spaceCityPhotoBoothLogoIcon.svg": "/space-city-photo-booth-landing/static/media/spaceCityPhotoBoothLogoIcon.58176cd88fa2e4b9d4ee5151758f49a3.svg",
     "index.html": "/space-city-photo-booth-landing/index.html",
     "main.0b7dfc44.css.map": "/space-city-photo-booth-landing/static/css/main.0b7dfc44.css.map",
-    "main.568a568e.js.map": "/space-city-photo-booth-landing/static/js/main.568a568e.js.map",
+    "main.12e91112.js.map": "/space-city-photo-booth-landing/static/js/main.12e91112.js.map",
     "787.957dfad2.chunk.js.map": "/space-city-photo-booth-landing/static/js/787.957dfad2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b7dfc44.css",
-    "static/js/main.568a568e.js"
+    "static/js/main.12e91112.js"
   ]
 }
