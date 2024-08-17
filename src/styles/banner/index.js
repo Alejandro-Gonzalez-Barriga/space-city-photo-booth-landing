@@ -13,7 +13,7 @@ export const BannerContainer = styled(Box)(({ matches, theme }) => ({
     flexDirection: "column",
     alignItems: "center",
   },
-  backgroundImage: `url(space-city-photo-booth-landing/images/banner/banner.svg)`,
+  backgroundImage: `url(space-city-photo-booth-landing/images/banner/banner.png)`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "center",
 }));
