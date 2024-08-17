@@ -27,7 +27,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: red;
-  background-image: url("../public/images/banner/banner.svg");
 }
 
 .App-link {
