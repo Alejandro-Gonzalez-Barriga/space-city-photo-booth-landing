@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8a3df01.css",
+    "main.js": "/static/js/main.b298a929.js",
+    "static/js/787.dadb26d1.chunk.js": "/static/js/787.dadb26d1.chunk.js",
+    "static/media/spaceCityPhotoBoothLogoTransparent.svg": "/static/media/spaceCityPhotoBoothLogoTransparent.183b0e8fa7123a7da248343cbcb8f419.svg",
+    "static/media/glacial-indifference-400italic.woff": "/static/media/glacial-indifference-400italic.c3afa1d57702a6bc28d6.woff",
+    "static/media/glacial-indifference-700.woff": "/static/media/glacial-indifference-700.bf6cffde246b3f1b2689.woff",
+    "static/media/glacial-indifference-400.woff": "/static/media/glacial-indifference-400.2fe7904dc3ce1b9f0ee9.woff",
+    "static/media/glacial-indifference-400italic.woff2": "/static/media/glacial-indifference-400italic.a59e0befee7f56e61759.woff2",
+    "static/media/glacial-indifference-700.woff2": "/static/media/glacial-indifference-700.d1ec8738b77ed769d4ef.woff2",
+    "static/media/glacial-indifference-400.woff2": "/static/media/glacial-indifference-400.91983e55e28839640601.woff2",
+    "static/media/spaceCityPhotoBoothLogoIcon.svg": "/static/media/spaceCityPhotoBoothLogoIcon.58176cd88fa2e4b9d4ee5151758f49a3.svg",
+    "index.html": "/index.html",
+    "main.c8a3df01.css.map": "/static/css/main.c8a3df01.css.map",
+    "main.b298a929.js.map": "/static/js/main.b298a929.js.map",
+    "787.dadb26d1.chunk.js.map": "/static/js/787.dadb26d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a3df01.css",
+    "static/js/main.b298a929.js"
+  ]
+}
